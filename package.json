@@ -1,0 +1,29 @@
+{
+  "name": "yapi-plugin-automated-test",
+  "version": "1.0.0",
+  "description": "Yapi 自动化测试插件，支持在Yapi设置测试计划，查看历史测试结果，钉钉通知。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gclm/yapi-plugin-automated-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gclm/yapi-plugin-automated-test/issues"
+  },
+  "homepage": "https://github.com/gclm/yapi-plugin-automated-test#readme",
+  "keywords": [
+    "yapi",
+    "yapi-plugin",
+    "test",
+    "auto test",
+    "automatedautomated test"
+  ],
+  "author": "gclm",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
